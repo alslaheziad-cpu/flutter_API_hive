@@ -14,6 +14,7 @@
 
 - سلوك التطبيق عند 404: يتم تطبيق التغيير محلياً في `Hive` كـfallback ويعرض تحذيراً.
 
-
-- إذا تريّد CRUD ثابتة: استخدم `json-server` محليًا وغيّر `apiBaseUrl` إلى `http://localhost:3000`.
-
+📫 Contact
+Email: alslaheziad@gmail.com
+mobile : +967 778 550 208
+GitHub: github.com/alslaheziad-cpu
